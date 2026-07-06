@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "cad": {
+      "source": "earthtojake/text-to-cad",
+      "sourceType": "github",
+      "skillPath": "skills/cad/SKILL.md",
+      "computedHash": "3c74e31ed629e295bbff8d5383b468a109b0336ece7a63e3351a9ef6fb0ce0ff"
+    },
+    "cad-viewer": {
+      "source": "earthtojake/text-to-cad",
+      "sourceType": "github",
+      "skillPath": "skills/cad-viewer/SKILL.md",
+      "computedHash": "2da54c635eaed76a53676753d1f3abdf4a8724d6ea6d2fbb56080862a930b323"
+    },
+    "dxf": {
+      "source": "earthtojake/text-to-cad",
+      "sourceType": "github",
+      "skillPath": "skills/dxf/SKILL.md",
+      "computedHash": "987eeaa03c0d5546a9cb360ba76ec915c1294f3d35cb7f59c7ffa71bc6b8717e"
+    },
+    "step-parts": {
+      "source": "earthtojake/text-to-cad",
+      "sourceType": "github",
+      "skillPath": "skills/step-parts/SKILL.md",
+      "computedHash": "6e915d1d1e1b2da6d5fae2dd412371b6d500145816da2ae203eed1b5ad6eacfc"
+    }
+  }
+}
